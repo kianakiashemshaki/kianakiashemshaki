@@ -1,5 +1,7 @@
 # I ask my computer to do something, and sometimes it listens. 🤖
 ## [Kiana Kiashemshaki ](https://kianakiashemshaki.github.io/)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianakiashemshaki/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://kianakiashemshaki.github.io) 
