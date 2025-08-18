@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianakiashemshaki/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kianakiashemshaki.github.io)
 [![Email](https://img.shields.io/badge/Email-kkiana@bgsu.edu-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kkiana@bgsu.edu)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=3JCivJ0AAAAJ&hl=en)
 
 # Education📚
 - MS in Computer Science Specialization in Cybersecurity
