@@ -8,7 +8,7 @@
 
 # Education📚
 - MS in Computer Science Specialization in Cybersecurity
-- BE in Computer Engineering Specialization in Software 
+- BS in Computer Engineering Specialization in Software 
 
 ## Skills and Technologies💡
 
