@@ -12,7 +12,7 @@
 
 ## Tech Stack 💡
 
-| Category | Details |
+| Domain | Stack |
 |----------|---------|
 | Code & Scripts | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 | IT Ops | ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-1AB394?style=for-the-badge&logo=servicenow&logoColor=white)  ![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
